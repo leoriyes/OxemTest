@@ -1,0 +1,19 @@
+{
+    "name": "oxem/test",
+    "description": "test",
+    "type": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lyonya Kulik",
+            "email": "lyonya-dev@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "oxem\\": ""
+        }
+    }
+}
