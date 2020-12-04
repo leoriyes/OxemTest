@@ -9,8 +9,8 @@ namespace oxem\app;
 class Farm
 {
     /**
-     * @param number $cowsCount Количество коров живущих в хлеве
-     * @param number $hensCount Количество кур живущих в хлеве
+     * @param number $cowsCount Количество коров живущих в хлеву
+     * @param number $hensCount Количество кур живущих в хлеву
      */
     public function __construct($cowsCount, $hensCount)
     {
